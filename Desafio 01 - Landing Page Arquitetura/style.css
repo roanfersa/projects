@@ -1,0 +1,120 @@
+
+
+* {
+    font-family: 'Inter';
+}
+
+
+#mheadline{   
+    background-color: #303030 ;
+    color: #FFF;
+    padding: 120px 60px 90px 70px;
+    margin: -10px;
+    
+}
+#titulo-headline{
+font-size: 25px;
+}
+
+#descricao-headline{
+font-size: 10px;
+}
+
+#secaoinfo{
+    background-color: #F9F9F9;
+    margin: -15px -15px 0px -15px;
+    padding: 30px 0px 40px 60px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: flex;
+
+       
+    
+    
+}
+#info{
+    margin-left: 24px;
+}
+
+.info{ 
+    margin-left: 20px;
+    
+}
+
+.textoinfo{
+font-size: 8px;
+}
+
+.destaqueinfo{
+font-size: 14px;
+}
+
+#sportifolio{
+    background-color: #FFF;
+    display: grid;
+    grid-auto-flow: column;
+    font-size: 13px;
+    padding-bottom: 80px;
+}
+
+#titulo3 {
+    margin-top: 129px ;
+    margin-left: 50px;
+    width: -10px;
+}
+
+#descricao3{
+    margin-left: 50px;
+}
+#imagem {
+width: 360px;
+height: 290px;
+margin-top: 64px;
+margin-left: -65px;
+padding-left: 30px;
+margin-right: 50px;
+}
+
+
+
+#fcadastro{
+    background-color: #303030;
+    color: #FFF;
+    display: block;
+    padding: 10px 60px 90px 60px;
+    margin: -10px;
+font-size: 8px ;  
+text-align: center;  
+
+}
+
+form{
+
+align-content: center;
+
+}
+input{
+    background-color: #FFFFFF;
+    width: 230px;
+    height: 29px;
+    display: inline-block;
+
+    margin: 30px 0px 26px 300px;
+    border-radius: 3px;
+    
+}
+
+button{
+     background-color: #C07212;
+     color: #FFFFFF;
+     width: 150px;
+     height: 40px;
+     border-radius: 3px;
+     margin-top: 30px;
+     border: 2px;
+}
+button:hover {
+    transform: translateY(5px);
+    background-color: #d99138 ;
+    transition-duration: 1.5s;
+}
